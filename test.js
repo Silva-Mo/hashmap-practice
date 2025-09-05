@@ -93,4 +93,4 @@ console.log(aiTest.length()); // expect 20
 console.log(aiTest.has('item5')); // false
 console.log(aiTest.has('item30')); // true
 
-// PASSES
+// PASSED
